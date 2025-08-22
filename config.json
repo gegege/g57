@@ -1,0 +1,5 @@
+{
+    "limit_high": 100,
+    "limit_low": 95,
+    "turbo_time": 30
+}
